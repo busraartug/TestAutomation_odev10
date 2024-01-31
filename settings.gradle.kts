@@ -1,0 +1,2 @@
+rootProject.name = "TestOtomasyon11"
+
